@@ -1,8 +1,5 @@
 # 3D Reconstruction Via Sparse depthless images
 
-[![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)](https://youtu.be/CarJgsx3DQY)
-
-
 
 ---------------------------------------------------
 <p align="center" >
