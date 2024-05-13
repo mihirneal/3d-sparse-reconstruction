@@ -1,13 +1,9 @@
-# FSGS: Real-Time Few-Shot View Synthesis using Gaussian Splatting
+# 3D Reconstruction Via Sparse depthless images
 
 
-
-[//]: # (###  [Project]&#40;https://zehaozhu.github.io/FSGS/&#41; | [Arxiv]&#40;https://arxiv.org/abs/2312.00451&#41;)
 
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.00451)
-[![Project Page](https://img.shields.io/badge/FSGS-Website-blue?logo=googlechrome&logoColor=blue)](https://zehaozhu.github.io/FSGS/)
 [![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)](https://youtu.be/CarJgsx3DQY)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVITA-Group%2FFSGS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
@@ -103,18 +99,3 @@ Special thanks to the following awesome projects!
 - [DreamGaussian](https://github.com/ashawkey/diff-gaussian-rasterization)
 - [SparseNeRF](https://github.com/Wanggcong/SparseNeRF)
 - [MipNeRF-360](https://github.com/google-research/multinerf)
-
-## Citation
-If you find our work useful for your project, please consider citing the following paper.
-
-
-```
-@misc{zhu2023FSGS, 
-title={FSGS: Real-Time Few-Shot View Synthesis using Gaussian Splatting}, 
-author={Zehao Zhu and Zhiwen Fan and Yifan Jiang and Zhangyang Wang}, 
-year={2023},
-eprint={2312.00451},
-archivePrefix={arXiv},
-primaryClass={cs.CV} 
-}
-```
